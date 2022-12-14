@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Snowitapp<br>🌱 I’m currently learning NextJS, Golang<br>💬 Ask me about ReactJS and JavaScript<br>⚡ Fun fact: Beer and cats...what else?
+🔭 I’m currently working @Snowitapp<br>🌱 I’m currently learning NextJS, Golang<br>💬 Ask me about ReactJS and JavaScript<br>⚡ Fun fact: Beer and cats...what else?
 
 
 ## 🌐 Socials:
